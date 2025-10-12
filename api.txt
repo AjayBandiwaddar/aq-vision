@@ -1,0 +1,14 @@
+# Server
+PORT=3000
+NODE_ENV=development
+
+GOOGLE_MAPS_API_KEY=AIzxxxxxxxxxxxxxxxx
+
+
+OPENWEATHER_API_KEY=xxxxxxxxxxx
+
+AIRNOW_API_KEY=C9xxxxxxxxxxxxxxxxx
+PORT=5000
+
+OPENAI_API_KEY = sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
